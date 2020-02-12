@@ -1,0 +1,15 @@
+---
+layout: post
+title: "AWS so far..."
+date: 2020-02-12 17:57:35 +0530
+---
+
+There was a time when shared Linux hosts like Hostgator were the shit and Virtual Private Servers(VPS) was the hot term, at least for me. I was always more oriented towards technology than any of my family members and peers so while on the internet I was curious about how websites worked behind the scenes, it was at that time I learned my way around cPanel and the shared hosting model. I remember searching for free hosts back then which provided hosting with cPanel access (I still remember you heliohost). CPanel was the shit man, I must be what, 14-15 at that time, and cPanel allowed a kid like me to host and deploy websites, thus kicking off my freelance career. At that time, Virtual Private Servers, SSH and the Linux terminal were just not for me. I could deploy a website with a few clicks, manage files with the inbuilt file manager and deploy open-source scripts using Softacalous installer. What more could you ask for? Well. It was only like a year back did I realize what more there really was to it. And now looking back, I can only laugh at my naive younger self.
+
+I learned about AWS when I was working with one of my clients. At the same time, we had Cloud Computing as one of the subjects in our CS curriculum. It is one subject that I absolutely loved so needless to say, it was the one I scored the MOST in, ever. We were introduced to a number of cloud service providers and how they work and all. At that point, I just jumped down to learning the fundamentals of virtualization and remote server management and deployment. It's been a year since then and I have acquainted myself with pretty much the whole of AWS, some of GCP and a little Azure. 
+
+Towards that end, I dedicate this blog to my learning about the AWS platform and Cloud in general. You will find posts regarding everything and anything I come across my journey towards becoming a Cloud Engineer. This blog serves as a knowledge base because we mere mortals have a tendency to forget things if we don't recall them frequently!
+
+
+__"Its not cloud, it's just someone else's computer"__
+
